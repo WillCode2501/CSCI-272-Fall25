@@ -3,9 +3,9 @@
 using namespace std;
 
 // Write a function double get Average(const vector<int>&) that returns the average
-double getAverage(const vector<int>& ids) {
+double getAverage(const vector<int>& ids) { // const so it's fixed and won't modify the vector. & by reference so not to copy the entire vector.
     double sum = 0;
-    for (double num: ids) {
+    for (double num: ids) { // range-based loop over each IDs
         sum += num;
     }
     return sum / ids.size();
@@ -14,7 +14,7 @@ double getAverage(const vector<int>& ids) {
 // Write another function int getHighest(const vector<int>&) that returns the highest
 int getHighest(const vector<int>& ids) {
     int highest = ids[0];
-    for (int high : ids) { // range-based loop over each IDs
+    for (int high : ids) { 
         if (high > highest) {
             highest = high;
         }
