@@ -22,9 +22,13 @@ cout << fixed << setprecision(3) << 3.312421;
 3.312
 
 cin.get();   input of the first character
+
 cin.getline(); get the entire string
+
 getline(cin, name);  get the entire input string and store it in name
 
 typedef Card* CardPtr; // CardPtr is an alias of Card* 
+
 typedef double DB; // DB is an alias of double
+
 typedef int ROY; // Roy is an alias of int
