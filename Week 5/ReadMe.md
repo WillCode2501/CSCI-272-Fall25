@@ -8,13 +8,17 @@ What is Streams?
 examples: 
 
 cout << setw(10) << setfill('-') << "Coffee" << endl;
-----Coffeee
+
+----Coffee
 
 cout << setw(10) << setfill('-') << "Menu" << endl << setw(10) << left << "Coffee" << setw(10) << right << "Total" << endl;
+
 ------Menu
+
 Coffee         Total
 
 cout << fixed << setprecision(3) << 3.312421;    
+
 3.312
 
 cin.get();   input of the first character
