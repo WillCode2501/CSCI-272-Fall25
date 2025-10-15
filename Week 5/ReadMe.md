@@ -32,3 +32,7 @@ typedef Card* CardPtr; // CardPtr is an alias of Card*
 typedef double DB; // DB is an alias of double
 
 typedef int ROY; // Roy is an alias of int
+
+
+
+Course.h, Student.h, and Transcript.cpp is an assignment for creating student transcript
