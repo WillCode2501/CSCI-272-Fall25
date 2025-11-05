@@ -32,5 +32,34 @@ make sure to close the file using.close()
 example: 
   outClientFile.close();
 
-when created a file like ofstream outClientFile("clients.txt", ios::out), can't use it again or else it replace the old one
+when created a file like ofstream outClientFile("clients.txt", ios::out), can't use it again or else it replace the old one,
 can add to the existing file using ios::app to eppend to the end of file, like ofstream outClientFile("clients.txt", ios::app);
+
+ifstream: input file, allow to read data from file
+ofstream: how to create a file
+
+use ios::in for reading data from file without modifying what's inside
+
+we can use seekg to read or seekp to write bytes into file into specific index in the file
+example:
+	inClientFile.seekg(0, ios::beg); // means read from the beginning
+
+	position to the nth byte of fileObject (assumes ios::beg)
+	inClientFile.seekg(n);
+	
+	// position n bytes in fileObject
+	inClientFile.seekg(n, ios::cur);
+	
+	// position n bytes back from end of fileObject
+	inClientFile.seekg(n, ios::end);
+	
+	// position at end of fileObject
+	inClientFile.seekg(0, ios::end);
+
+
+
+
+
+
+
+
