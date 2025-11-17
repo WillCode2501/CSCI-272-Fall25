@@ -96,13 +96,14 @@ DynamicArray& DynamicArray::operator=(const DynamicArray& other) {
 Rule of Five (C++11 and Later) To prevent memory leak and double deletion
 - 3 from Rule of Three
 - Move Constructor
-    Move ownership but no assignment, so anyone can own it
+    Create a new constructor by taking data from old constructor
 - Move assignment operator
     Move ownership along with the assignment to them, only the assigned has ownership
 
 
 
 rvalue reference: &&
+reference temporary while & reference permanent 
 Move constructor provided an efficient way to transfer these resources without unnecessary duplication
   - Move the constructor to new place and use it, while releasing the old place.
     
