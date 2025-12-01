@@ -17,3 +17,9 @@ public:
 Inheritance: The process by which a class inheirts properties and behaviors from another class.
 Hierarchy: The organization of classes into a tree-like structor, representing relationship between base and derived classes.
 
+Type of Inheritance:
+  Single Inheritance: from one parent
+  Multiple Inheritance: from more than one parents
+  Multilevel Inheritance: from parent but the parent also inherited from grandparent, so child get parent and grandparent
+  Hierarchical Inheritance: multiple child inherit from a single parent
+  Hybrid Inheritance: a combination of different types of inheritance
