@@ -1,4 +1,4 @@
-Group project 2, library management system
+Capstone Group Project: library management system
 Members: Raakin, Sherry, Tejbir, Henry, Wei
 
 Summary:

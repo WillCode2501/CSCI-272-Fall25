@@ -1,4 +1,4 @@
-Group project 1, assignment for midterm
+Group assigment 1 for midterm
 Members: Wei, Jahan, Bladimir
 
 Summary:
