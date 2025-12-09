@@ -1,0 +1,15 @@
+The Great Gatsby|Alice|2023-10-01|2023-10-15|2023-10-14|returned
+To Kill a Mockingbird|Bob|2023-10-02|2023-10-16|2023-10-15|returned
+1984|Charlie|2023-10-05|2023-10-19||checked out
+Pride and Prejudice|Diana|2023-10-08|2023-10-22|2023-10-20|returned
+The Catcher in the Rye|Eve|2023-10-10|2023-10-24||checked out
+Brave New World|Frank|2023-10-12|2023-10-26||checked out
+The Great Gatsby|NewMember|2023-11-01|2023-11-15||checked out
+The Great Gatsby|NewMember|2023-11-01|2023-11-15||checked out
+The Great Gatsby|NewMember|2023-11-01|2023-11-15||checked out
+The Great Gatsby|NewMember|2023-11-01|2023-11-15||checked out
+The Great Gatsby|NewMember|2023-11-01|2023-11-15||checked out
+wwe|admin|2024-01-01|2024-01-15||checked out
+The Hobbit|admin|2024-01-01|2024-01-15|2025-12-04|returned
+Brave New World|admin|2024-01-01|2024-01-15|2025-12-03|returned
+To Kill a Mockingbird|alice|2024-01-01|2024-01-15|2025-12-04|returned

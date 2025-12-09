@@ -1,0 +1,7 @@
+admin|admin1234|Admin User|admin@library.com|M001|staff
+librarian|lib456|Jane Smith|jane@library.com|M002|staff
+alice|pass123|Alice Johnson|alice@email.com|M003|user
+charlie|pass789|Charlie Brown|charlie@email.com|M005|user
+Raakin|Raakin123|Raakin Brown|raakin@email.com|M006|staff
+Henry|henry123|Henry Brown|henry@email.com|M007|staff
+Wei|pass123|Wei Wang||M008|staff
